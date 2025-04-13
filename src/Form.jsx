@@ -26,7 +26,7 @@ function Form() {
     formData.append('gender', gender);
     formData.append('dob', dob);
     formData.append('summary', summary);
-    formData.append('mernRating', Number(mernRating)); // Ensure it's a number
+    formData.append('mernRating', Number(mernRating)); 
     formData.append('resume', resume);
 
     try {
