@@ -14,7 +14,7 @@ body {
 }
 
 .form-title {
-  border-top: 8px solid #188038; /* Google Forms green */
+  border-top: 8px solid #188038; 
   padding: 24px;
   border-radius: 4px 4px 0 0;
   text-align: center;
@@ -95,7 +95,7 @@ input[type="date"]:focus {
   border-bottom: 2px solid #1a73e8;
 }
 
-/* Star rating styling */
+
 .star-rating {
   display: flex;
   justify-content: space-between;
@@ -125,7 +125,7 @@ input[type="date"]:focus {
   margin-top: 4px;
 }
 
-/* File input styling */
+
 input[type="file"] {
   margin-top: 10px;
 }.star-rating {
@@ -141,7 +141,7 @@ input[type="file"] {
 }
 
 .star.filled {
-  color: #fbc02d; /* Yellow like Google stars */
+  color: #fbc02d; 
 }
 .submit-button {
   background-color: #1a73e8;
