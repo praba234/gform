@@ -1,6 +1,6 @@
 // ThankYou.js
 import React from 'react';
-import './Form.css'; // Optional, reuse styling
+import './Form.css'; 
 
 const ThankYou = () => (
   <div className="thank-you">
